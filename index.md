@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Phone Controlled Robot Arm
+The Phone Controlled Robot Arm is like an arm that can help in putting things in different places.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Arnav Gattu | Newark Memorial High School | Computer Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUSG0K8ON-Ab3_1aU3XwLxjv28zRh_vHYyAIkcx3Nt9IBGkAwlk1qi4LlFvMJRIlqXZk6etjIYZiZlt9Hi3hZYxzZdLI7kBTJ5GkxT19ItaA7MnA8hQsavm3ieMO8-JHW515mYKehlIfQHpXUM7WvRl=w904-h903-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
