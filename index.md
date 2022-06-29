@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Starter Project
 The TV-B-Gone is a machine that allows you turn of any TV within 150 ft or more. The machine has over 230 codes in the microchip which is the brain of the machine and will power the entire thing. I thought of choosing this project because I wanted to see if this machine can actually turn of a TV without using a remote. 
 
-[![Starter Project](https://img.youtube.com/vi/ksk7sphbKAM/0.jpg)
+[![Starter Project](https://img.youtube.com/vi/ksk7sphbKAM/0.jpg)](https://www.youtube.com/watch?v=ksk7sphbKAM&t=1s)
