@@ -6,7 +6,12 @@ The Phone Controlled Robot Arm is like an arm that can help in putting things in
 | Arnav | Newark Memorial High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUSG0K8ON-Ab3_1aU3XwLxjv28zRh_vHYyAIkcx3Nt9IBGkAwlk1qi4LlFvMJRIlqXZk6etjIYZiZlt9Hi3hZYxzZdLI7kBTJ5GkxT19ItaA7MnA8hQsavm3ieMO8-JHW515mYKehlIfQHpXUM7WvRl=w904-h903-no?authuser=0)
-  
+
+# Third Milestone
+My third milestone is also my final milestone. In my last milestone, I controlled the robot arm through an app on the android phone. But this time, I will be controlling it through an app that I made from the MIT App Inventor where I built the code. I also used the Arduino app to help connect the bluetooth to the machine. I later uploaded the code to onto the phone and controlled the machine using that app. 
+
+[![Third Milestone](https://i3.ytimg.com/vi/BNT9Z66EUG4/maxresdefault.jpg)](https://www.youtube.com/watch?v=BNT9Z66EUG40
+
 # Second Milestone
 My second milestone is the phone controlled robot arm. In the last video I controlled the robot arm with the controller that is attached to the machine, but this time I am controlling the machine with the phone. I had to first download the app from online because it cannot be found on the phone. After I finished downloading the app, I had to uppload a code from the arduino app to the app on the phone which will alow me to control the robot arm with the phone.
 
