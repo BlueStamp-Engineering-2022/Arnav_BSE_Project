@@ -3,7 +3,7 @@ The Phone Controlled Robot Arm is like an arm that can help in putting things in
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Arnav | Newark Memorial High School | Computer Engineering | Incoming Senior
+| Arnav | Newark Memorial High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUSG0K8ON-Ab3_1aU3XwLxjv28zRh_vHYyAIkcx3Nt9IBGkAwlk1qi4LlFvMJRIlqXZk6etjIYZiZlt9Hi3hZYxzZdLI7kBTJ5GkxT19ItaA7MnA8hQsavm3ieMO8-JHW515mYKehlIfQHpXUM7WvRl=w904-h903-no?authuser=0)
 
